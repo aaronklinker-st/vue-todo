@@ -2,6 +2,8 @@
 
 Simple todo list app using Vite, Vue 3, `<script setup>` API, and composables.
 
+https://github.com/aaronklinker-st/vue-todo/assets/92738025/f181954c-2343-42b0-9f89-d0f0fd3d4959
+
 ## Development
 
 ```sh
